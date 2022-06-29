@@ -1,2 +1,4 @@
 ### 💡 
-![](https://github-readme-stats.vercel.app/api?username=s5z6&count_private=true&hide_title=true&show_icons=true&hide=issues,contribs)
+[<img src="http://s3.amazonaws.com/zedshaw.progmofo/bg.png" width="200">](http://programming-motherfucker.com)
+
+**Do you speak it?**
